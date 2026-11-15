@@ -2,6 +2,11 @@
 GIT COMMANDS DOCUMENTATION - WORKFLOW ASSIGNMENT
 File: git_commands.txt
 Repository: Git & GitHub Workflow Demonstration
+Student Name: Siddhant Prasad
+Roll Number: 2024eb02323
+Email: 2024eb02323@online.bits-pilani.ac.in
+GitHub Username: Sid13SST
+GitHub Repository: https://github.com/Sid13SST/git-workflow-assignment
 ================================================================================
 
 1. git init -b main
@@ -65,7 +70,7 @@ Repository: Git & GitHub Workflow Demonstration
     Creates a new commit that records the exact inverse of the latest commit (HEAD), safely undoing changes without altering existing commit history.
     (Note: git reset --soft HEAD~1 or git reset --hard HEAD~1 can also be used locally to roll back the commit pointer).
 
-21. git remote add origin https://github.com/<username>/<repo-name>.git
+21. git remote add origin https://github.com/Sid13SST/git-workflow-assignment.git
     Associates the local Git repository with the remote repository hosted on GitHub under the alias 'origin'.
 
 22. git branch -M main
